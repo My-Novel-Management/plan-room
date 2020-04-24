@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.0.0] - 2020-04-24
+### Added
+- Robot SF contest
+
 ## [1.0.0] - 2020-04-13
 ### Added
 - UJ-plot-contest
@@ -15,6 +19,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
 - README one line implemented.
 
-[Unreleased]: https://github.com/nagisc007/storybuilder/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/nagisc007/storybuilder/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/nagisc007/storybuilder/releases/v2.0.0
 [1.0.0]: https://github.com/nagisc007/storybuilder/releases/v1.0.0
 [0.0.1]: https://github.com/nagisc007/storybuilder/releases/v0.0.1
