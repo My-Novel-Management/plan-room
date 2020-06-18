@@ -16,6 +16,22 @@ _in preparation_
 - Size: xxK
 - Music: "MUSIC" by ARTIST
 
+---
+
+## Base elements
+
+### Outline
+
+### Character
+
+### Idea
+
+### Image
+
+### Dialogue
+
+---
+
 ## Concept
 
 _「copy」_
